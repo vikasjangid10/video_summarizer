@@ -25,7 +25,7 @@ st.set_page_config(
 )
 
 st.title("Phidata Video AI Summarizer Agent 🎥🎤🖬")
-st.header("Powered by Gemini , developed by vikas jangid")
+st.header("Powered by Gemini , developed by vikas jangid and team")
 
 @st.cache_resource
 def initialize_agent():
